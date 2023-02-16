@@ -1,3 +1,6 @@
+| :warning: This repo has moved: [dracla/replugged](https://github.com/dracula/replugged) |
+| --- |
+
 # Dracula for [Replugged](https://replugged.dev)
 
 > A dark theme for [Replugged](https://replugged.dev).
